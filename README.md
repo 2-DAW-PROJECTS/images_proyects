@@ -82,9 +82,4 @@ JobHunter es una plataforma para la gestión y búsqueda de empleos, que incluye
 
 ---
 
-## Licencia
-Este proyecto está licenciado bajo los términos de la [Licencia MIT](LICENSE).
-
----
-
-> **Nota**: Las imágenes sirven para ilustrar el diseño y la funcionalidad de cada parte de la aplicación JobHunter.
+> **Nota**: Las imágenes ilustran el diseño y la funcionalidad de cada sección de la aplicación JobHunter, desarrollada por [Llorenç Alfonso Sanchis](https://github.com/alfosan) y [Javier Tomás](https://github.com/JavierTomasTormo).
