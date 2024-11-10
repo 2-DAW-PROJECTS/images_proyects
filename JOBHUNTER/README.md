@@ -19,66 +19,66 @@ JobHunter es una plataforma para la gestión y búsqueda de empleos, que incluye
 ### Inicio
 **Vista principal de la plataforma con un carrusel de empleos destacados.**
 
-![Home](JOBHUNTER/Home.PNG)
-![Home Carrusel](JOBHUNTER/Home_carrousel.PNG)
+![Home](Home.PNG)
+![Home Carrusel](Home_carrousel.PNG)
 
 ### Login
 **Pantalla de inicio de sesión para acceder a la plataforma.**
 
-![Login](JOBHUNTER/Login.PNG)
+![Login](Login.PNG)
 
 ### Registro
 **Pantalla para crear una nueva cuenta en JobHunter.**
 
-![Register](JOBHUNTER/Register.PNG)
+![Register](Register.PNG)
 
 ### Perfil de Usuario
 **Vista del perfil personal del usuario registrado.**
 
-![Profile](JOBHUNTER/Profile.PNG)
+![Profile](Profile.PNG)
 
 ### Perfil de Empresa
 **Vista del perfil de una empresa registrada, con opciones para editar la información.**
 
-![Profile Enterprise](JOBHUNTER/Profile_Enterprise.PNG)
-![Profile Enterprise Edit](JOBHUNTER/Profile_Enterprise_Edit.PNG)
+![Profile Enterprise](Profile_Enterprise.PNG)
+![Profile Enterprise Edit](Profile_Enterprise_Edit.PNG)
 
 ### Tienda
 **Vista de la tienda, con opciones de paginación y desplazamiento al principio de la página.**
 
-![Shop](JOBHUNTER/Shop.PNG)
-![Shop Footer, Pagination, Scroll to Top](JOBHUNTER/Shop_footer_pagination_scroll_to_top.PNG)
+![Shop](Shop.PNG)
+![Shop Footer, Pagination, Scroll to Top](Shop_footer_pagination_scroll_to_top.PNG)
 
 ### Panel de Control de Empresa
 **Interfaz para que las empresas gestionen sus ofertas de empleo.**
 
 - **Crear nueva oferta:**
   
-  ![Create New Offer Dashboard](JOBHUNTER/Create_new_offert_dashboard_Enterprise.PNG)
+  ![Create New Offer Dashboard](Create_new_offert_dashboard_Enterprise.PNG)
 
 - **Editar una oferta existente:**
 
-  ![Edit Offer Dashboard](JOBHUNTER/edit_offert_dashboard_Enterprise.PNG)
+  ![Edit Offer Dashboard](edit_offert_dashboard_Enterprise.PNG)
 
 - **Vista general del panel:**
 
-  ![Enterprise Dashboard](JOBHUNTER/Dashboard_UserEnterprise.PNG)
+  ![Enterprise Dashboard](Dashboard_UserEnterprise.PNG)
 
 ### Detalles
 **Página de detalles de una oferta de empleo, incluyendo la sección de comentarios.**
 
-![Details](JOBHUNTER/Details.PNG)
-![Details Comments Footer Scroll to Top](JOBHUNTER/Details_comments_footer_scroll_to_top.PNG)
+![Details](Details.PNG)
+![Details Comments Footer Scroll to Top](Details_comments_footer_scroll_to_top.PNG)
 
 ### Dashboard del Administrador
 **Vista del panel de administración para la gestión avanzada de usuarios y ofertas.**
 
-![Admin Dashboard](JOBHUNTER/admin_Dashboard.PNG)
+![Admin Dashboard](admin_Dashboard.PNG)
 
 ### Servidor y Prisma Studio
 **Vista de la configuración del servidor y la administración de la base de datos con Prisma Studio.**
 
-![Server Studio Prisma](JOBHUNTER/server_studio_prisma.PNG)
+![Server Studio Prisma](server_studio_prisma.PNG)
 
 ---
 
